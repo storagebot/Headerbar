@@ -3,8 +3,9 @@
 Here is complete tutorial of Firefox GNOME integration
 
 1. Install all software from this list(don't restart after installing each one):
- * [GNOME 3 theme for Firefox](https://addons.mozilla.org/firefox/addon/adwaita/)
+ * [GNOME 3 theme for Firefox](https://addons.mozilla.org/firefox/addon/adwaita/), or if you can't wait for 3.12-style tabs use beta: https://github.com/gnome-integration-team/firefox-gnome/issues/241
  * [GNOME 3 Theme Tweak extension](https://addons.mozilla.org/firefox/addon/gnome-theme-tweak/)
+ * [Hide Tab Bar With One Tab](https://addons.mozilla.org/en-US/firefox/addon/hide-tab-bar-with-one-tab/)
  * [HTitle](https://addons.mozilla.org/firefox/addon/htitle/) - for hiding titlebar
  * [GNotifier](https://addons.mozilla.org/firefox/addon/gnotifier/) - for native notifications
  * [Stylish](https://addons.mozilla.org/firefox/addon/stylish/) - for adjusting userstyles
