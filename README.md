@@ -10,7 +10,7 @@ Here is complete tutorial of Firefox GNOME integration
  * [GNotifier](https://addons.mozilla.org/firefox/addon/gnotifier/) - for native notifications
  * [Stylish](https://addons.mozilla.org/firefox/addon/stylish/) - for adjusting userstyles
 
-2. Restart your browser, go to [Addons](about:addons), find GNOME Theme Tweak options and enable options you like, find HTitle options and select hide titlebar "Always" option
+2. Restart your browser, go to <code>about:addons</code>, find GNOME Theme Tweak options and enable options you like, find HTitle options and select hide titlebar "Always" option
 
 3. Go to Styles section and add userstyle:
 
