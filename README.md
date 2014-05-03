@@ -14,7 +14,7 @@ Here is complete tutorial of Firefox GNOME integration
 
 ![Screenshot of Theme Tweak options](Theme Tweak.png)
 
-3. Go to Styles section and add userstyle:
+3. Go to "User Styles" section of <code>about:addons</code>, select "Write New Style" button pick some name and paste userstyle below and click "Save" button.
 
         @-moz-document url(chrome://browser/content/browser.xul) {
     
