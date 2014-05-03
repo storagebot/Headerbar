@@ -1,4 +1,4 @@
-# Header for firefox-extension-htitle
+# Headerbar for Firefox
 
 Here is complete tutorial of Firefox GNOME integration
 
