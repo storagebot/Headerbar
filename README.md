@@ -9,6 +9,7 @@ Here is complete tutorial of Firefox GNOME integration
  * [HTitle](https://addons.mozilla.org/firefox/addon/htitle/) - for hiding titlebar
  * [GNotifier](https://addons.mozilla.org/firefox/addon/gnotifier/) - for native notifications
  * [Stylish](https://addons.mozilla.org/firefox/addon/stylish/) - for adjusting userstyles
+ * [Simple bookmarks menu](https://addons.mozilla.org/firefox/addon/simple-bookmarks-menu/)(optionally) - for hiding unnecessary items in the bookmarks menu
 
 2. Restart your browser, go to <code>about:addons</code>, find GNOME Theme Tweak options and enable options you like, find HTitle options and select hide titlebar "Always" option
 
