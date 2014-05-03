@@ -13,23 +13,23 @@ Here is complete tutorial of Firefox GNOME integration
 
 3. Go to Styles section and add userstyle:
 
-    @-moz-document url(chrome://browser/content/browser.xul) {
+        @-moz-document url(chrome://browser/content/browser.xul) {
     
-        #nav-bar {
-            background-image: -moz-linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) !important;
+            #nav-bar {
+                background-image: -moz-linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) !important;
+            }
+    
+            /* Bigger paddings for better dragging experience */
+        
+            #navigator-toolbox:not([tabsontop="true"]) #nav-bar {
+                padding: 3px 3px 6px 3px !important;
+            }
+        
+            #urlbar {
+                margin: 0 36px !important;
+            }
         }
 
-        /* Bigger paddings for better dragging experience */
-    
-        #navigator-toolbox:not([tabsontop="true"]) #nav-bar {
-            padding: 3px 3px 6px 3px !important;
-        }
-    
-        #urlbar {
-            margin: 0 36px !important;
-        }
-    }
+4. Press "Download ZIP" on the right of this page, copy "Headerbar-master" folder from downloaded archive into <code>~/.local/share/themes/</code> - if this folder does not exist - create it
 
-4. Press "Download ZIP" on the right of this page, copy "Headerbar" folder from downloaded archive into ~/.local/share/themes - if this folder does not exist - create it
-
-5. Switch window theme using GNOME Tweak Tool
+5. Switch window theme to "Headerbar-master" using GNOME Tweak Tool
