@@ -12,6 +12,8 @@ Here is complete tutorial of Firefox GNOME integration
 
 2. Restart your browser, go to <code>about:addons</code>, find GNOME Theme Tweak options and enable options you like, find HTitle options and select hide titlebar "Always" option
 
+![Screenshot of Theme Tweak options](Theme Tweak.png)
+
 3. Go to Styles section and add userstyle:
 
         @-moz-document url(chrome://browser/content/browser.xul) {
